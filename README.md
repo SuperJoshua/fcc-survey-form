@@ -1,6 +1,6 @@
 # Build a Survey Form
 
-[live site](https://superjoshua.github.io/fcc-survey-form/)
+[--> See it live.](https://superjoshua.github.io/fcc-survey-form/)
 
 This was a project required for getting the Responsive Web Design Certificate from freeCodeCamp. It required the fulfillment of these "user stories".
 
